@@ -128,3 +128,25 @@ footer {
   margin-top: 2rem;
   border-radius: 5px;
 }
+
+
+/* Procenttag */
+
+.discount-badge {
+  background-color: #e74c3c;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #7f8c8d;
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+}
+
